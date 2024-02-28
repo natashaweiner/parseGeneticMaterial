@@ -27,7 +27,6 @@ def reverse_complement(seq):
 
 
 #Main ORF function to account for ORFs 1-6
-#Main contributer= Natasha 
 def ORF(FASTAEntries, startCodon, stopCodon, frame, getReverseComp):
     #print(FASTAEntries)
     #Maps 
